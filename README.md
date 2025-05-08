@@ -1,2 +1,2 @@
-# BOT-Telegram---getallmylinks
-Automatisation de tâche sur GetAllMyLinks
+# BOT-Telegram-GetAllMyLinks
+Automatisation de tâche via Telegram sur GetAllMyLinks
